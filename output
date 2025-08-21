@@ -1,0 +1,19 @@
+Epoch 1/3
+286/286 ━━━━━━━━━━━━━━━━━━━━ 3s 5ms/step - accuracy: 0.5105 - loss: 1.2331 
+Epoch 2/3
+286/286 ━━━━━━━━━━━━━━━━━━━━ 1s 5ms/step - accuracy: 0.4545 - loss: 0.8299 
+Epoch 3/3
+286/286 ━━━━━━━━━━━━━━━━━━━━ 4s 8ms/step - accuracy: 0.5105 - loss: 0.8106 
+5/5 ━━━━━━━━━━━━━━━━━━━━ 0s 23ms/step
+Prediction:White Wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
+Prediction:Red wine
